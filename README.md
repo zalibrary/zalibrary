@@ -42,17 +42,24 @@ I am highly motivated to continuously learn and apply analytical tools to solve 
 ## 📂 Featured Projects
 
 <p align="center">
-  <a href="https://github.com/zalibrary/Walmartsales_analysis">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=zalibrary&repo=Walmartsales_analysis&theme=tokyonight" alt="Walmart Sales Analysis" />
-  </a>
-
-  <a href="https://github.com/zalibrary/UBER_Analysis">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=zalibrary&repo=UBER_Analysis&theme=tokyonight" alt="UBER Analysis" />
-  </a>
-
+  <!-- Pizza Sales -->
   <a href="https://github.com/zalibrary/From-Kitchen-to-Data-Analyzing-Pizza-Sales">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=zalibrary&repo=From-Kitchen-to-Data-Analyzing-Pizza-Sales&theme=tokyonight" alt="Pizza Sales Analysis" />
+    <img src="https://cdn-icons-png.flaticon.com/512/3595/3595455.png" width="120" alt="Pizza Sales Project"/>
   </a>
+
+  <!-- Uber Analysis -->
+  <a href="https://github.com/zalibrary/UBER_Analysis">
+    <img src="https://cdn-icons-png.flaticon.com/512/732/732221.png" width="120" alt="Uber Analysis"/>
+  </a>
+
+  <!-- Walmart Sales -->
+  <a href="https://github.com/zalibrary/Walmartsales_analysis">
+    <img src="https://cdn-icons-png.flaticon.com/512/888/888848.png" width="120" alt="Walmart Sales Analysis"/>
+  </a>
+</p>
+
+<p align="center">
+  🍕 Pizza Sales Analysis &nbsp;&nbsp; 🚗 Uber Analysis &nbsp;&nbsp; 🛒 Walmart Sales Analysis
 </p>
 
 
