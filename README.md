@@ -66,23 +66,27 @@ I am highly motivated to continuously learn and apply analytical tools to solve 
 ---
 
 ## 📊 Tools I Use
-<p align="left">
-  <img src="https://img.shields.io/badge/SQL-MySQL-blue?style=for-the-badge&logo=mysql" />
-  <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" />
-  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel" />
-  <img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi" />
-  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" />
-</p>
-
----
-
-## 📈 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=zalibrary&show_icons=true&theme=tokyonight" />
-</p>
+## 🛠️ Tools & Technologies I Use
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zalibrary&theme=tokyonight" />
+  <!-- SQL -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="60" alt="MySQL"/>
+
+  <!-- Python -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="60" alt="Python"/>
+
+  <!-- Tableau -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tableau/tableau-original.svg" width="60" alt="Tableau"/>
+
+  <!-- Power BI -->
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Power_BI_logo.svg" width="60" alt="Power BI"/>
+
+  <!-- Excel -->
+  <img src="https://cdn-icons-png.flaticon.com/512/732/732220.png" width="60" alt="Microsoft Excel"/>
+</p>
+
+<p align="center">
+  MySQL • Python • Tableau • Power BI • Microsoft Excel
 </p>
 
 ---
