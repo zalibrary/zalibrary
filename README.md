@@ -78,7 +78,7 @@ I am highly motivated to continuously learn and apply analytical tools to solve 
   <img src="http://www.centralplotter.com/detail/tableau-creator-on-premise-1-year-subscription" width="60" alt="Tableau"/>
 
   <!-- Power BI -->
-  <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Power_BI_logo.svg" width="60" alt="Power BI"/>
+  <img src="https://commons.wikimedia.org/wiki/File:New_Power_BI_Logo.svg" width="60" alt="Power BI"/>
 
   <!-- Excel -->
   <img src="https://cdn-icons-png.flaticon.com/512/732/732220.png" width="60" alt="Microsoft Excel"/>
