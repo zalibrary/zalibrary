@@ -39,16 +39,22 @@ I am highly motivated to continuously learn and apply analytical tools to solve 
 
 ---
 
-## 📌 Featured Projects
-🔹 **Pizza Sales Analysis**  
-- Analyzed sales performance using **MySQL & Excel**
-- Created KPIs such as Total Revenue, Average Order Value, and Sales Trends
-- Built interactive dashboards to visualize insights 🍕
+## 📂 Featured Projects
 
-🔹 **Data Analytics Case Studies**
-- Real-world datasets
-- End-to-end analysis from raw data to visualization
-- Focus on business insights and storytelling
+<p align="center">
+  <a href="https://github.com/zalibrary/Walmartsales_analysis">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=zalibrary&repo=Walmartsales_analysis&theme=tokyonight" alt="Walmart Sales Analysis" />
+  </a>
+
+  <a href="https://github.com/zalibrary/UBER_Analysis">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=zalibrary&repo=UBER_Analysis&theme=tokyonight" alt="UBER Analysis" />
+  </a>
+
+  <a href="https://github.com/zalibrary/From-Kitchen-to-Data-Analyzing-Pizza-Sales">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=zalibrary&repo=From-Kitchen-to-Data-Analyzing-Pizza-Sales&theme=tokyonight" alt="Pizza Sales Analysis" />
+  </a>
+</p>
+
 
 ---
 
