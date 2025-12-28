@@ -65,8 +65,7 @@ I am highly motivated to continuously learn and apply analytical tools to solve 
 
 ---
 
-## 📊 Tools I Use
-## 🛠️ Tools & Technologies I Use
+## 🛠️ Tools I Use
 
 <p align="center">
   <!-- SQL -->
@@ -76,7 +75,7 @@ I am highly motivated to continuously learn and apply analytical tools to solve 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="60" alt="Python"/>
 
   <!-- Tableau -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tableau/tableau-original.svg" width="60" alt="Tableau"/>
+  <img src="http://www.centralplotter.com/detail/tableau-creator-on-premise-1-year-subscription" width="60" alt="Tableau"/>
 
   <!-- Power BI -->
   <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Power_BI_logo.svg" width="60" alt="Power BI"/>
