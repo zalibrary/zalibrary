@@ -67,28 +67,27 @@ I am highly motivated to continuously learn and apply analytical tools to solve 
 
 ## 🛠️ Tools I Use
 
-## 🛠️ Tools & Technologies I Use
-
 <p align="center">
-  <!-- MySQL -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="60"/>
+  <!-- SQL -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="60" alt="MySQL"/>
 
   <!-- Python -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="60"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="60" alt="Python"/>
 
   <!-- Tableau -->
-  <img src="https://cdn-icons-png.flaticon.com/512/5968/5968380.png" width="60"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tableau/tableau-original.svg" width="60" alt="Tableau"/>
 
   <!-- Power BI -->
-  <img src="https://cdn-icons-png.flaticon.com/512/732/732220.png" width="60"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Power_BI_logo.svg" width="60" alt="Power BI"/>
 
   <!-- Excel -->
-  <img src="https://cdn-icons-png.flaticon.com/512/732/732226.png" width="60"/>
+  <img src="https://cdn-icons-png.flaticon.com/512/732/732220.png" width="60" alt="Microsoft Excel"/>
 </p>
 
 <p align="center">
   MySQL • Python • Tableau • Power BI • Microsoft Excel
 </p>
+
 
 
 ---
