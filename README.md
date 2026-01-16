@@ -29,7 +29,7 @@ I am highly motivated to continuously learn and apply analytical tools to solve 
 - **Power BI**
 
 ### 🐍 Programming
-- **Python** (Pandas, NumPy, Matplotlib)
+- **Python** (Pandas, Matplotlib)
 
 ### 📈 Core Skills
 - Data Cleaning & Preprocessing  
