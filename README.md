@@ -39,7 +39,7 @@ I am highly motivated to continuously learn and apply analytical tools to solve 
 
 ---
 
-## 📂 Featured Projects
+## 📂 My Projects
 
 <p align="center">
   <!-- Pizza Sales -->
@@ -56,10 +56,15 @@ I am highly motivated to continuously learn and apply analytical tools to solve 
   <a href="https://github.com/zalibrary/Walmartsales_analysis">
     <img src="https://cdn-icons-png.flaticon.com/512/888/888848.png" width="120" alt="Walmart Sales Analysis"/>
   </a>
+
+  <!-- HR Analytics -->
+  <a href="https://github.com/zalibrary/HR-Analytics-PowerBI">
+    <img src="https://cdn-icons-png.flaticon.com/512/3135/3135715.png" width="120" alt="HR Analytics Project"/>
+  </a>
 </p>
 
 <p align="center">
-  🍕 Pizza Sales Analysis &nbsp;&nbsp; 🚗 Uber Analysis &nbsp;&nbsp; 🛒 Walmart Sales Analysis
+  🍕 Pizza Sales Analysis &nbsp;&nbsp; 🚗 Uber Analysis &nbsp;&nbsp; 🛒 Walmart Sales Analysis &nbsp;&nbsp; 👥 HR Analytics
 </p>
 
 
