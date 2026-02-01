@@ -66,7 +66,7 @@ I am highly motivated to continuously learn and apply analytical tools to solve 
 <!-- Customer Shopping Analysis -->
 <p align="center">
   <a href="https://github.com/zalibrary/customer-shopping-analysis">
-    <img src="https://cdn-icons-png.flaticon.com/512/3082/3082383.png" width="120" alt="Customer Shopping Analysis"/>
+    <img src="https://cdn-icons-png.flaticon.com/512/2331/2331970.png" width="120" alt="Customer Shopping Analysis"/>
   </a>
 </p>
 
