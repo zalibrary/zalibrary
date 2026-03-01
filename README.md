@@ -70,8 +70,19 @@ I am highly motivated to continuously learn and apply analytical tools to solve 
   </a>
 </p>
 
+<!-- Student Dropout Risk Analysis -->
 <p align="center">
-  🍕 Pizza Sales Analysis &nbsp;&nbsp; 🚗 Uber Analysis &nbsp;&nbsp; 🛒 Walmart Sales Analysis &nbsp;&nbsp; 👥 HR Analytics &nbsp;&nbsp; 🛍️ Customer Shopping Analysis
+  <a href="https://github.com/USERNAME/student-dropout-analysis">
+    <img src="https://cdn-icons-png.flaticon.com/512/3135/3135755.png" width="120" alt="Student Dropout Analysis"/>
+  </a>
+</p>
+
+<p align="center">
+  🍕 Pizza Sales Analysis &nbsp;&nbsp; 
+  🚗 Uber Analysis &nbsp;&nbsp; 
+  🛒 Walmart Sales Analysis &nbsp;&nbsp; 
+  👥 HR Analytics &nbsp;&nbsp; 
+  🎓 Student Dropout Risk Analysis
 </p>
 
 
