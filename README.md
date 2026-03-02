@@ -44,36 +44,36 @@ I am highly motivated to continuously learn and apply analytical tools to solve 
 <p align="center">
   <!-- Pizza Sales -->
   <a href="https://github.com/zalibrary/From-Kitchen-to-Data-Analyzing-Pizza-Sales">
-    <img src="https://cdn-icons-png.flaticon.com/512/3595/3595455.png" width="120" alt="Pizza Sales Project"/>
+    <img src="https://cdn-icons-png.flaticon.com/512/3595/3595455.png" width="60" alt="Pizza Sales Project"/>
   </a>
 
   <!-- Uber Analysis -->
   <a href="https://github.com/zalibrary/UBER_Analysis">
-    <img src="https://cdn-icons-png.flaticon.com/512/732/732221.png" width="120" alt="Uber Analysis"/>
+    <img src="https://cdn-icons-png.flaticon.com/512/732/732221.png" width="60" alt="Uber Analysis"/>
   </a>
 
   <!-- Walmart Sales -->
   <a href="https://github.com/zalibrary/Walmartsales_analysis">
-    <img src="https://cdn-icons-png.flaticon.com/512/888/888848.png" width="120" alt="Walmart Sales Analysis"/>
+    <img src="https://cdn-icons-png.flaticon.com/512/888/888848.png" width="60" alt="Walmart Sales Analysis"/>
   </a>
 
   <!-- HR Analytics -->
   <a href="https://github.com/zalibrary/HR-Analytics-PowerBI">
-    <img src="https://cdn-icons-png.flaticon.com/512/3135/3135715.png" width="120" alt="HR Analytics Project"/>
+    <img src="https://cdn-icons-png.flaticon.com/512/3135/3135715.png" width="60" alt="HR Analytics Project"/>
   </a>
 </p>
 
 <!-- Customer Shopping Analysis -->
 <p align="center">
   <a href="https://github.com/zalibrary/customer_shopping">
-    <img src="https://cdn-icons-png.flaticon.com/512/2331/2331970.png" width="120" alt="Customer Shopping Analysis"/>
+    <img src="https://cdn-icons-png.flaticon.com/512/2331/2331970.png" width="60" alt="Customer Shopping Analysis"/>
   </a>
 </p>
 
 <!-- Student Dropout Risk Analysis -->
 <p align="center">
   <a href="https://github.com/USERNAME/student-dropout-analysis">
-    <img src="https://cdn-icons-png.flaticon.com/512/3135/3135755.png" width="120" alt="Student Dropout Analysis"/>
+    <img src="https://cdn-icons-png.flaticon.com/512/3135/3135755.png" width="60" alt="Student Dropout Analysis"/>
   </a>
 </p>
 
