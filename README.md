@@ -63,6 +63,11 @@ I am highly motivated to continuously learn and apply analytical tools to solve 
     <img src="https://cdn-icons-png.flaticon.com/512/3135/3135715.png" height="60"/>
   </a>
 
+  <!-- Customer Shopping Analysis --> 
+  <a href="https://github.com/zalibrary/customer_shopping"> 
+    <img src="https://cdn-icons-png.flaticon.com/512/2331/2331970.png" height="60"/> 
+  </a>
+
   <!-- Student Dropout -->
   <a href="https://github.com/zalibrary/student-dropout-analysis">
     <img src="https://cdn-icons-png.flaticon.com/512/3135/3135755.png" height="60"/>
