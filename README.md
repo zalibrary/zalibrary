@@ -73,6 +73,11 @@ I am highly motivated to continuously learn and apply analytical tools to solve 
     <img src="https://cdn-icons-png.flaticon.com/512/3135/3135755.png" height="60"/>
   </a>
 
+ <!-- Indonesia Regional Economic -->
+  <a href="https://github.com/zalibrary/Indonesia-Regional-Economic-Analysis-2025">
+    <img src="https://tabloidtirai.com/readfile/showFile/uploads/pngtree-indonesian-state-currency-or-called-the-rupiah-png-image_6839423.png" height="60"/>
+  </a>
+  
 </p>
 
 <p align="center">
@@ -80,7 +85,8 @@ I am highly motivated to continuously learn and apply analytical tools to solve 
   🚗 Uber Analysis &nbsp;&nbsp; 
   🛒 Walmart Sales Analysis &nbsp;&nbsp; 
   👥 HR Analytics &nbsp;&nbsp; 
-  🎓 Student Dropout Risk Analysis
+  🎓 Student Dropout Risk Analysis &nbsp;&nbsp;
+  💰 Indonesia Regional Economic Analysis 2025
 </p>
 
 
