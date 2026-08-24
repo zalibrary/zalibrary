@@ -120,7 +120,7 @@ I am highly motivated to continuously learn and apply analytical tools to solve 
 ---
 
 ## 📫 Let's Connect!
-- 💼 Open to **Data Analyst / Data Entry / Admin Data** opportunities
+- 💼 Open to **Data Analyst & Data-related opportunitie** 
 - 📊 Passionate about turning data into actionable insights
 
 <p align="center">
